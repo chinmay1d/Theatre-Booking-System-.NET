@@ -1,0 +1,17 @@
+c:\users\acer\documents\visual studio 2015\Projects\theatreseeting\theatreseeting\bin\Debug\theatreseeting.exe.config
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\bin\Debug\theatreseeting.exe
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\bin\Debug\theatreseeting.pdb
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.Form3.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.Form4.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.exe
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.pdb
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.payment.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.logo.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.admin.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.forgot.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.cancellation.resources
+C:\Users\ACER\Documents\Visual Studio 2015\Projects\theatreseeting\theatreseeting\obj\Debug\theatreseeting.home.resources
